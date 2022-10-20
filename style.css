@@ -25,6 +25,7 @@ body{
     max-width: 300px;
     border-radius: 15px;
     padding: 20px;
+    max-height:530px ;
 
 }
 
@@ -41,7 +42,7 @@ body{
     flex-direction: column;
     padding: 15px;
 }
-.title h1{
+.title h2{
     padding-bottom: 20px;
     text-align: center;
     color: hsl(218, 44%, 22%);
