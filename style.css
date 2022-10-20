@@ -46,9 +46,9 @@ body{
     padding-bottom: 20px;
     text-align: center;
     color: hsl(218, 44%, 22%);
-}
+    font-size: 22px;}
 .card-desc p{
     color: hsl(220, 15%, 55%);
     text-align: center;
-    font-size: 15px;
+   
 }
